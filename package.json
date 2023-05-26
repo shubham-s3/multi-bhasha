@@ -1,0 +1,15 @@
+{
+  "name": "@swiggy-private/multi-bhasha",
+  "version": "1.0.5",
+  "description": "This package can help you convert the entire react native app to multi language support in real time",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Singla (shubham.s3@swiggy.in)",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}
